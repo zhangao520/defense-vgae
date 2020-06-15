@@ -1,2 +1,2 @@
-# defense-vgae
-DefenseVGAE
+# DefenseVGAE
+Coming soon
